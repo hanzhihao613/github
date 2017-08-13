@@ -1,6 +1,6 @@
 ## 小白学JavaScript
 
-学习JavaScript？请[点这里](https://hanzhiaho613.github.io/github/)访问主页
+学习JavaScript？请[点这里](https://hanzhihao613.github.io/github/)访问主页
 
 ## 共建小白用的JavaScript技术文档
 
